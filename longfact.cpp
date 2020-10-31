@@ -1,9 +1,9 @@
 // C++ program to compute factorial of big numbers
-include<iostream>
+#include<iostream>
 using namespace std;
 
 // Maximum number of digits in output
-define MAX 500
+#define MAX 500
 
 int multiply(int x, int res[], int res_size);
 
